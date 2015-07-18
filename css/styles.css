@@ -1,0 +1,12 @@
+body{
+	font-family: Arial, sans-serif;
+}
+h1{
+	color: #ff40c3;
+}
+h2{
+	color: #00ff00;
+}
+p.padding-left {
+    padding-left: 15cm;
+}
